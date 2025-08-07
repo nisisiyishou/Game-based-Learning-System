@@ -8,7 +8,7 @@ AI-powered game learning platform where students...
 ## 🎬 Demo Videos
 
 **Primary Demo**  
-[![Demo Video (Part 1)](demo/thumbnail.png)](https://drive.google.com/file/d/1bXEPpYGrtdEUBRd5e2unYuiOH_uwcMss/view?usp=drive_link)
+https://youtu.be/7tmKGokcBa4
 
 **Additional Walkthroughs**  
 - Part 2: [https://drive.google.com/file/d/1dqwQs0NPU9guAJHhhji5RLi0pvT3UQ8_/view?usp=drive_link](https://drive.google.com/file/d/1dqwQs0NPU9guAJHhhji5RLi0pvT3UQ8_/view?usp=drive_link)  
