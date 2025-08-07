@@ -53,18 +53,6 @@ As part of a 5-person team under Dr. Faham (Civil Engineering), I led and delive
 
 ---
 
-## 🎯 Screenshots
-1. **User Authentication**  
-   ![Login Screen](docs/screenshots/login.png)  
-2. **Interactive Quiz Play**  
-   ![Quiz Play](docs/screenshots/quiz-play.png)  
-3. **AI Feedback Popup**  
-   ![Feedback](docs/screenshots/feedback.png)  
-
-*(See full walkthroughs in the Demo Videos section.)*
-
----
-
 ## 📄 IP & Code Availability
 This repository contains **only** public demonstration assets (videos, screenshots, documentation).  
 _All source code and raw data for this capstone project are the intellectual property of the University and Dr. Faham and are not included here._  
