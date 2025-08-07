@@ -1,67 +1,58 @@
-# Game-based-Learning-System
-AI-powered game learning platform where students...
-
 # Game-Based Learning Platform (Capstone Project)
 
 ---
 
-## 🎬 Demo Videos
+## 🎬 Demo
 
-**Primary Demo**  
-https://youtu.be/ukBghzuWwp0
+[![Watch the full demo](https://img.youtube.com/vi/ukBghzuWwp0/0.jpg)](https://youtu.be/ukBghzuWwp0)  
+*Click the image to play the 3-minute demo.*
 
 **Additional Walkthroughs**  
-- Part 2: https://youtu.be/1rxOQcQLkPA 
-- Part 3: https://youtu.be/7tmKGokcBa4
+- Part 2: https://youtu.be/1rxOQcQLkPA  
+- Part 3: https://youtu.be/7tmKGokcBa4  
 
 ---
 
 ## 🔍 Project Overview
-A web-based, AI‐powered game learning system designed for project management education. Students navigate a Mario-style map by answering multiple-choice questions; the platform provides real-time, personalized feedback using Retrieval-Augmented Generation (RAG) and ChatGPT, and allows professors to auto-generate quizzes from uploaded PDFs.
 
-**Key Features**  
-- Interactive game interface with sprite animations  
-- Professor portal for course, quiz, and question management  
-- AI-driven quiz creation (PDF → questions) and immediate feedback  
-- Student dashboard with progress tracking and personalized quiz bank  
+A web-based, AI-powered game learning system for project management education. Students navigate a Mario-style map by answering multiple-choice questions. The platform provides real-time personalized feedback via a Retrieval-Augmented Generation (RAG) pipeline using ChatGPT and lets professors auto-generate quizzes from uploaded PDFs.
 
 ---
 
 ## 👩‍💻 My Role & Contributions
-As part of a 5-person team under Dr. Faham (Civil Engineering), I led and delivered the **Student UI** and related logic:
 
-- **Front-end & Back-end Student UI**  
-  Designed and implemented React components and Django views/controllers for student registration, login, course enrollment, quiz taking, and feedback browsing.  
-- **UI/UX & Database Design**  
-  Crafted wireframes, selected color schemes, and mapped out the MySQL schema (User, Course, Quiz, Question, Feedback).  
-- **API Integration**  
-  Integrated ChatGPT API and RAG pipeline to fetch AI-generated questions and feedback into the student interface.  
-- **Testing & QA**  
-  Wrote and executed unit & integration tests for student flows (authentication, quiz submission, AI feedback). Mentored peers on test-case design.  
-- **Client Liaison**  
-  Served as the primary contact with our client (Dr. Faham): captured requirements, demoed prototypes, and incorporated feedback.  
+As Student UI Lead on a 5-person team under Dr. Faham:
+
+- **Front-end & Back-end UI**: Built React components and Django views for registration, enrollment, quiz play, and feedback display.  
+- **UI/UX & DB Design**: Created wireframes, selected color schemes, and designed MySQL schema (User, Course, Quiz, Question, Feedback).  
+- **API Integration**: Hooked up ChatGPT + RAG pipeline for dynamic question/feedback generation.  
+- **Testing & QA**: Wrote unit/integration tests; mentored peers on test design.  
+- **Client Liaison**: Captured requirements, demoed prototypes, and gathered feedback from Dr. Faham.
 
 ---
 
 ## ⚙️ Tech Stack
+
 - **Frontend:** React.js, Vite, Tailwind CSS  
-- **Backend:** Django (Python), Django REST Framework  
-- **Database:** MySQL via Django ORM  
-- **AI & ML:** ChatGPT‐4 API, RAG (Retrieval-Augmented Generation)  
-- **Game Assets:** Aseprite for sprite animations  
-- **DevOps & Collaboration:** Bitbucket (private), Jira, Slack, Zoom  
+- **Backend:** Django, Django REST Framework  
+- **Database:** MySQL (Django ORM)  
+- **AI:** OpenAI ChatGPT-4 API, Retrieval-Augmented Generation  
+- **Assets:** Aseprite for pixel animations  
+- **Collaboration:** Bitbucket, Jira, Slack, Zoom  
 
 ---
 
-## 📄 IP & Code Availability
-This repository contains **only** public demonstration assets (videos, screenshots, documentation).  
-_All source code and raw data for this capstone project are the intellectual property of the University and Dr. Faham and are not included here._  
-To request the code, please contact our project supervisor or access the university’s internal repository.
+## 📄 IP & Availability
+
+This repo contains only public demo assets (videos, screenshots, docs).  
+_All source code and original data belong to the University and Dr. Faham._  
+To request full access, contact the project supervisor or use the university’s internal repository.
 
 ---
 
 ## 📫 Contact
-- **Yi Si** (Client Liaison & Student UI Lead)  
-- Email: siyiwh98@gmail.com  
-- GitHub: [nisisiyishou](https://github.com/nisisiyishou)  
-- Portfolio: https://yisiblog.com  
+
+**Yi Si** (Student UI Lead)  
+✉️ siyiwh98@gmail.com  
+💻 https://github.com/nisisiyishou  
+🌐 https://yisiblog.com  
