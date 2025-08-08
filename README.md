@@ -44,7 +44,7 @@ As Student UI Lead on a 5-person team under Dr. Faham:
 
 ## 📄 IP & Availability
 
-This repo contains only public demo assets (videos, screenshots, docs).  
+This repo contains only public demo assets (videos, docs).  
 _All source code and original data belong to the University and Dr. Faham._  
 To request full access, contact the project supervisor or use the university’s internal repository.
 
